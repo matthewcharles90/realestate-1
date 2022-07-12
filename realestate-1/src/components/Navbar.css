@@ -15,3 +15,7 @@
     align-items: center;
     padding: 1rem;
 }
+
+.navbar span {
+    color: #930606;
+}
