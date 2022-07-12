@@ -7,7 +7,11 @@ import {BsFillHouseFill} from 'react-icons/bs'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className='navbar'>
+        <div className='container'>
+          <h1><span><BsFillHouseFill />Real</span>Estate</h1>
+        </div>
+    </div>
   )
 }
 
