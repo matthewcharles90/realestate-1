@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import React from 'react'
 import './Navbar.css'
 import {HiOutlineMenuAlt4} from 'react-icons/hi'
 import {FaRegTimesCircle} from 'react-icons/fa'
@@ -15,4 +14,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar;
