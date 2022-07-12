@@ -9,6 +9,7 @@ const Navbar = () => {
     <div className='navbar'>
         <div className='container'>
           <h1><span><BsFillHouseFill />Real</span>Estate</h1>
+          <button className='btn'>Sign In</button>
         </div>
     </div>
   )
