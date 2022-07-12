@@ -23,3 +23,8 @@
 .navbar .nav-menu {
     display: flex;
 }
+
+.navbar li {
+    padding: 1rem;
+}
+
