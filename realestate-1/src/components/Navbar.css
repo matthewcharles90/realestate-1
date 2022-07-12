@@ -19,3 +19,7 @@
 .navbar span {
     color: #930606;
 }
+
+.navbar .nav-menu {
+    display: flex;
+}
