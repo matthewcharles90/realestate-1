@@ -17,6 +17,9 @@ const Navbar = () => {
              <li><a href='#'>About</a></li>
              <li><a href='#'>Contact</a></li>
           </ul>
+          <div className='hamburger'>
+            <HiOutlineMenuAlt4 />
+          </div>
         </div>
     </div>
   )
