@@ -55,5 +55,13 @@
         z-index: 10;
     }
 
+    .navbar .active {
+        right: 0;
+    }
+
+    .navbar .nav-menu li a {
+        font-size: 2rem;
+    }
+
 }
     
