@@ -9,13 +9,13 @@ const Navbar = () => {
 
   const[click, setClick] = useState(false)
   const handleClick = () => setClick(!click)
-  
+
   return (
     <div className='navbar'>
         <div className='container'>
           <h1><span><BsFillHouseFill />Real</span>Estate</h1>
           <button className='btn'>Sign In</button>
-          <ul className='nav-menu'>
+          <ul className={click ? 'nav-menu active' : 'nav-menu'}>
              <li><a href='#'>Home</a></li>
              <li><a href='#'>Search</a></li>
              <li><a href='#'>About</a></li>
