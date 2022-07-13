@@ -28,3 +28,10 @@
     padding: 1rem;
 }
 
+.hamburger {
+    display: none;
+}
+
+.icon {
+    font-size: 1.5rem;
+}
