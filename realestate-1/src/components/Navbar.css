@@ -15,3 +15,23 @@
     align-items: center;
     padding: 1rem;
 }
+
+.navbar span {
+    color: #930606;
+}
+
+.navbar .nav-menu {
+    display: flex;
+}
+
+.navbar li {
+    padding: 1rem;
+}
+
+.hamburger {
+    display: none;
+}
+
+.icon {
+    font-size: 1.5rem;
+}
