@@ -21,7 +21,7 @@ const Navbar = () => {
              <li><a href='#'>About</a></li>
              <li><a href='#'>Contact</a></li>
           </ul>
-          <div className='hamburger'>
+          <div className='hamburger' onClick={handleClick}>
             <HiOutlineMenuAlt4 className='icon' />
           </div>
         </div>
