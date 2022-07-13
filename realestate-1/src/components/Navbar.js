@@ -6,6 +6,10 @@ import {FaRegTimesCircle} from 'react-icons/fa'
 import {BsFillHouseFill} from 'react-icons/bs'
 
 const Navbar = () => {
+
+  const[click, setClick] = useState(false)
+  const handleClick = () => setClick(!click)
+  
   return (
     <div className='navbar'>
         <div className='container'>
