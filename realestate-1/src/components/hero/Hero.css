@@ -9,7 +9,7 @@
 
 .hero:before {
     content: '';
-    background: url();
+    background: url('../../assets/hero-img.jpg') no repeat center center/cover;
     height: 100%;
     width: 100%;
     position: absolute;
