@@ -64,3 +64,7 @@
 .search input[type=text]:focus {
     outline: none;
 }
+
+.search label {
+    padding: 0 14px 0 8px;
+}
