@@ -73,3 +73,12 @@
     display: flex;
     align-items: center;
 }
+
+.search button {
+    background-image: linear-gradient(45deg, #b45b17, 0%, #8e3404 100%);
+    border: 1px solid #b45b17;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
