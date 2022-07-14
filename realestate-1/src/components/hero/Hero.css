@@ -50,3 +50,17 @@
     padding: 4px;
     border-radius: 8px;
 }
+
+/* will only target text input, not radio */
+.search input[type=text] {
+    border: transparent;
+    background-color: transparent;
+    width: 400px;
+    font-size: 1.2rem;
+    font-family: 'Roboto, sans-serif';
+
+}
+
+.search input[type=text]:focus {
+    outline: none;
+}
