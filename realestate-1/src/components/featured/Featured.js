@@ -63,6 +63,8 @@ const featured = () => {
                 <img className='order-2' src={Bed3} alt='' />
                 <img className='order-3' src={Bed4} alt='' />
 
+
+                 {/* Main Image */}
                 <img className='span-3 image-grid-row-2 order-1' src={Home2} alt='' />
 
 
