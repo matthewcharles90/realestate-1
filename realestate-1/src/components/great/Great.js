@@ -1,5 +1,9 @@
 import React from 'react'
 import './Great.css'
+import Apt1 from '../../assets/apt-1.jpg'
+import Apt2 from '../../assets/apt-2.jpg'
+import Apt3 from '../../assets/apt-3.jpg'
+
 
 const Great = () => {
   return (
@@ -12,9 +16,9 @@ const Great = () => {
             <p>Vacation</p>
         </div>
         <div className='container'>
-            <img src={} alt='' />
-            <img src={} alt='' />
-            <img src={} alt='' />
+            <img src={Apt1} alt='' />
+            <img src={Apt2} alt='' />
+            <img src={Apt3} alt='' />
         </div>
         <button className='btn'>View All</button>
     </div>
