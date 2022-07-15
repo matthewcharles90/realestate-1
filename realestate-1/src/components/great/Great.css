@@ -8,3 +8,23 @@
     display: flex;
     justify-content: center;
 }
+
+.great > div p {
+    margin: 1rem 2rem;
+    font-size: 1.2rem;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.best .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1.2rem;
+    padding: 1rem;
+}
+
+.best img {
+    width: 100%;
+}
