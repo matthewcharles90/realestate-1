@@ -31,3 +31,15 @@
     margin: 2rem 3rem;
     color: #0d059b;
 }
+
+
+@media screen and (max-width: 940px) {
+    .footer .container {
+        grid-template-columns: repeat(2,1fr);
+        gap: .5rem;
+    }
+
+    .footer .icon {
+        margin: 1rem;
+    }
+}
