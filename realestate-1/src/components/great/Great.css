@@ -3,3 +3,8 @@
     margin: 4rem 0;
     text-align: center;
 }
+
+.great > div {
+    display: flex;
+    justify-content: center;
+}
