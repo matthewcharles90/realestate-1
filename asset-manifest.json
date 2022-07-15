@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/realestate-1/static/css/main.4784cc67.css",
+    "main.js": "/realestate-1/static/js/main.0d00ef71.js",
+    "static/media/home2.jpg": "/realestate-1/static/media/home2.02b46e2f87dffec2e9d9.jpg",
+    "static/media/bed1.jpg": "/realestate-1/static/media/bed1.c7a3330dd21f59fcd7bc.jpg",
+    "static/media/home1.jpg": "/realestate-1/static/media/home1.4fe71fce70a1c9555ed8.jpg",
+    "static/media/bed4.jpg": "/realestate-1/static/media/bed4.2f2782889894f9e87c57.jpg",
+    "static/media/hero-img.jpg": "/realestate-1/static/media/hero-img.1e5f186ddee48f451ddd.jpg",
+    "static/media/kitchen1.jpg": "/realestate-1/static/media/kitchen1.b0f00daa23fe5fd5d198.jpg",
+    "static/media/bed2.jpg": "/realestate-1/static/media/bed2.9d79577be4d570b4a0e9.jpg",
+    "static/media/bath1.jpg": "/realestate-1/static/media/bath1.a3f78f0b98d512a742b2.jpg",
+    "static/media/bed3.jpg": "/realestate-1/static/media/bed3.4e52e1414209ccf8c001.jpg",
+    "static/media/bath3.jpg": "/realestate-1/static/media/bath3.3f3ff70ff24b1e3076e9.jpg",
+    "static/media/livingRoom1.jpg": "/realestate-1/static/media/livingRoom1.e0e98101c39a9aea9d80.jpg",
+    "static/media/apt-2.jpg": "/realestate-1/static/media/apt-2.28f5571339f810eb912d.jpg",
+    "static/media/apt-3.jpg": "/realestate-1/static/media/apt-3.b0e48f04bf9b02ace642.jpg",
+    "static/media/apt-1.jpg": "/realestate-1/static/media/apt-1.d6acca615aed4e564cca.jpg",
+    "index.html": "/realestate-1/index.html",
+    "main.4784cc67.css.map": "/realestate-1/static/css/main.4784cc67.css.map",
+    "main.0d00ef71.js.map": "/realestate-1/static/js/main.0d00ef71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4784cc67.css",
+    "static/js/main.0d00ef71.js"
+  ]
+}
