@@ -18,28 +18,28 @@
     font-weight: 700;
 }
 
-.best .container {
+.great .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 1.2rem;
     padding: 1rem;
 }
 
-.best img {
+.great img {
     width: 100%;
 }
 
 @media screen and (max-width:940px) {
-    .best {
+    .great {
         margin: 1rem 0;
     }
 
-    .best > div p {
+    .great > div p {
         margin: 1rem;
         font-size: 1rem;
     }
 
-    .best .container {
+    .great .container {
         grid-template-columns: 1fr;
         grid-gap: .5rem;
     }

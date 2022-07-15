@@ -1,4 +1,5 @@
 import React from 'react'
+import './Great.css'
 import Apt1 from '../../assets/apt-1.jpg'
 import Apt2 from '../../assets/apt-2.jpg'
 import Apt3 from '../../assets/apt-3.jpg'
