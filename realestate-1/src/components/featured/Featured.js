@@ -1,5 +1,11 @@
 import React from 'react'
 
+import Home1 from '../../assets/home1.jpg'
+import Bed1 from '../../assets/bed1.jpg'
+import Bed2 from '../../assets/bed2.jpg'
+import Kitchen from '../../assets/kitchen1.jpg'
+import Bathroom from '../../assets/bath1.jpg'
+
 const featured = () => {
   return (
     <div className='featured'>
