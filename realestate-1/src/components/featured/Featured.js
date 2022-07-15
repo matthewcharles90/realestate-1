@@ -12,11 +12,11 @@ const featured = () => {
         <h1 className='featured-teext'>Top Featured Listings</h1>
         <p>Selected listings by City, State, & Zip based on views</p>
         <div className='container'>
-            <img src={} alt='' />
-            <img src={} alt='' />
-            <img src={} alt='' />
-            <img src={} alt='' />
-            <img src={} alt='' />
+            <img src={Home1} alt='' />
+            <img src={Bed1} alt='' />
+            <img src={Bed2} alt='' />
+            <img src={Kitchen} alt='' />
+            <img src={Bathroom} alt='' />
             <div className='span-3 img-details'>
                 <div className='top'>
                     <h2>123 Wonderful Ave, Brooklyn</h2>
