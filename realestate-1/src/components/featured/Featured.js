@@ -1,5 +1,5 @@
 import React from 'react'
-import './featured.css'
+import './Featured.css'
 
 import Home1 from '../../assets/home1.jpg'
 import Bed1 from '../../assets/bed1.jpg'
