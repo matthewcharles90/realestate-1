@@ -11,6 +11,7 @@ import Bed3 from '../../assets/bed3.jpg'
 import Bed4 from '../../assets/bed4.jpg'
 import Bathroom2 from '../../assets/bath3.jpg'
 import LivingRoom from '../../assets/livingRoom1.jpg'
+import Home2 from '../../assets/home2.jpg'
 
 const featured = () => {
     return (
@@ -61,7 +62,7 @@ const featured = () => {
                 <img className='order-2' src={Bed3} alt='' />
                 <img className='order-3' src={Bed4} alt='' />
 
-                <img className='span-3 image-grid-row-2 order-1' src={House2} alt='' />
+                <img className='span-3 image-grid-row-2 order-1' src={Home2} alt='' />
 
 
                 <img className='order-4' src={Bathroom2} alt='' />
